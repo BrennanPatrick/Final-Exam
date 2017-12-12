@@ -21,3 +21,27 @@ body {
   float: right;
 }
 }
+a {
+  color: moccasin;
+}
+h3 {
+  font-weight: lighter;
+  padding-bottom: 2px;
+}
+h2 {
+  margin-top: 0px;
+  font-size: 24px;
+  font-style: italic;
+}
+h1, h2, h3 {
+  font-family: georgia;
+}
+.source {
+  border-bottom: 5px;
+  border-bottom-style: solid;
+  border-bottom-color: #E8E8E8;
+  padding-bottom: 20px;
+}
+.column-1, .column-2 {
+  margin-top: 35px;
+}
