@@ -1,0 +1,23 @@
+img {
+  max-width: 100%;
+  height: auto;
+}
+.container {
+  margin: auto;
+  background-color: plum;
+  max-width: 700px;
+  overflow: auto;
+}
+body {
+  background-color: darkorchid;
+}
+@media(min-width: 500px) {
+.column-1 {
+  width: 70%;
+  float: left;
+}
+.column-2 {
+  width: 30%;
+  float: right;
+}
+}
