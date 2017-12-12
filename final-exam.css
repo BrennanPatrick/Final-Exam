@@ -7,6 +7,7 @@ img {
   background-color: plum;
   max-width: 700px;
   overflow: auto;
+  padding: 10px;
 }
 body {
   background-color: darkorchid;
@@ -44,4 +45,7 @@ h1, h2, h3 {
 }
 .column-1, .column-2 {
   margin-top: 35px;
+}
+#reveal-recipes {
+  padding: 10px;
 }
